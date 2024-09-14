@@ -1,1 +1,2 @@
-calico/typha:v3.25.0
+docker.io/calico/typha:v3.25.0
+docker.io/calico/pod2daemon-flexvol:v3.25.0
