@@ -1,1 +1,1 @@
-dockerio/calico/typha:v3.25.0
+ngnix
