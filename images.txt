@@ -1,1 +1,1 @@
-ngnix
+calico/typha:v3.25.0
