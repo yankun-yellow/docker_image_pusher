@@ -4,5 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-/calico/pod2daemon-flexvol:v3.25.0
-/calico/typha:v3.25.0
+pod2daemon-flexvol:v3.25.0
+typha:v3.25.0
